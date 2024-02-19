@@ -1,0 +1,16 @@
+C:\Users\STUDENTS-1212-2\Desktop\GP\FormInformaciq13.02.24\FormInformaciq13.02.24\bin\Debug\net8.0-windows\FormInformaciq13.02.24.exe
+C:\Users\STUDENTS-1212-2\Desktop\GP\FormInformaciq13.02.24\FormInformaciq13.02.24\bin\Debug\net8.0-windows\FormInformaciq13.02.24.deps.json
+C:\Users\STUDENTS-1212-2\Desktop\GP\FormInformaciq13.02.24\FormInformaciq13.02.24\bin\Debug\net8.0-windows\FormInformaciq13.02.24.runtimeconfig.json
+C:\Users\STUDENTS-1212-2\Desktop\GP\FormInformaciq13.02.24\FormInformaciq13.02.24\bin\Debug\net8.0-windows\FormInformaciq13.02.24.dll
+C:\Users\STUDENTS-1212-2\Desktop\GP\FormInformaciq13.02.24\FormInformaciq13.02.24\bin\Debug\net8.0-windows\FormInformaciq13.02.24.pdb
+C:\Users\STUDENTS-1212-2\Desktop\GP\FormInformaciq13.02.24\FormInformaciq13.02.24\obj\Debug\net8.0-windows\FormInformaciq13._02._24.Form1.resources
+C:\Users\STUDENTS-1212-2\Desktop\GP\FormInformaciq13.02.24\FormInformaciq13.02.24\obj\Debug\net8.0-windows\FormInformaciq13.02.24.csproj.GenerateResource.cache
+C:\Users\STUDENTS-1212-2\Desktop\GP\FormInformaciq13.02.24\FormInformaciq13.02.24\obj\Debug\net8.0-windows\FormInformaciq13.02.24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENTS-1212-2\Desktop\GP\FormInformaciq13.02.24\FormInformaciq13.02.24\obj\Debug\net8.0-windows\FormInformaciq13.02.24.AssemblyInfoInputs.cache
+C:\Users\STUDENTS-1212-2\Desktop\GP\FormInformaciq13.02.24\FormInformaciq13.02.24\obj\Debug\net8.0-windows\FormInformaciq13.02.24.AssemblyInfo.cs
+C:\Users\STUDENTS-1212-2\Desktop\GP\FormInformaciq13.02.24\FormInformaciq13.02.24\obj\Debug\net8.0-windows\FormInformaciq13.02.24.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1212-2\Desktop\GP\FormInformaciq13.02.24\FormInformaciq13.02.24\obj\Debug\net8.0-windows\FormInformaciq13.02.24.dll
+C:\Users\STUDENTS-1212-2\Desktop\GP\FormInformaciq13.02.24\FormInformaciq13.02.24\obj\Debug\net8.0-windows\refint\FormInformaciq13.02.24.dll
+C:\Users\STUDENTS-1212-2\Desktop\GP\FormInformaciq13.02.24\FormInformaciq13.02.24\obj\Debug\net8.0-windows\FormInformaciq13.02.24.pdb
+C:\Users\STUDENTS-1212-2\Desktop\GP\FormInformaciq13.02.24\FormInformaciq13.02.24\obj\Debug\net8.0-windows\FormInformaciq13.02.24.genruntimeconfig.cache
+C:\Users\STUDENTS-1212-2\Desktop\GP\FormInformaciq13.02.24\FormInformaciq13.02.24\obj\Debug\net8.0-windows\ref\FormInformaciq13.02.24.dll
